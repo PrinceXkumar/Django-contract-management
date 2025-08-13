@@ -224,11 +224,6 @@ If you encounter any issues or have questions:
 - [ ] Advanced search and filtering
 - [ ] Contract renewal reminders
 
-## 📊 Screenshots
-
-*Add screenshots of your application here*
-
----
 
 **Built with ❤️ using Django**
 
